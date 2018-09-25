@@ -22,8 +22,9 @@ function johnLennonFacts(facts) {
 }
 function iMehTheBeatles(n) {
   var array = [];
+  var i = 0
   do   { array.push('I meh the Beatles!');
-  n++;
-  } while (n < 15);
+  i++;
+  } while (i < 15);
   return array
 }
