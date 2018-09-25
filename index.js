@@ -23,7 +23,6 @@ function johnLennonFacts(facts) {
 function iMehTheBeatles(n) {
   var mcCartneyIsAToff = [];
   var i = 0;
-}
   do   { mcCartneyIsAToff.push('I meh the Beatles!');
   i++;
   } while (i < 15);
