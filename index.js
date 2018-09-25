@@ -21,10 +21,9 @@ function johnLennonFacts(facts) {
   return array 
 }
 function iMehTheBeatles(n) {
-  var mcCartneyIsAToff = [];
-  var i = 0;
-  do   { mcCartneyIsAToff.push('I meh the Beatles!');
-  i++;
-  } while (i < 15);
-  return mcCartneyIsAToff
+  var array = [];
+  do   { array.push('I meh the Beatles!');
+  n++;
+  } while (n < 15);
+  return array
 }
